@@ -1,0 +1,13 @@
+package com.neebal.notification;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NotificationConsumerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
